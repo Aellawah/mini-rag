@@ -16,3 +16,9 @@ This is a minimal implementation of the RAG model for question and answering.
 #### optional
 
 
+## Installation 
+
+## install required packages
+
+## setup the enviroments
+
